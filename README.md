@@ -9,7 +9,6 @@ Este repositório contém uma coleção de exercícios escritos em Dart para pra
 - [Fatorial](#fatorial)
 - [Conversão de Listas](#conversão-de-listas)
 - [Ordenação](#ordenação)
-- ... (e assim por diante para cada exercício)
 
 ## Maior Elemento em uma Lista
 
