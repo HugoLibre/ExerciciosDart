@@ -40,12 +40,4 @@ dart
 
 List<String> intListToStringList(List<int> list) => list.map((i) => i.toString()).toList();
 
-Ordenação
 
-Implementa o algoritmo de ordenação Bubble Sort para ordenar uma lista de inteiros.
-
-dart
-
-void bubbleSort(List<int> list) {
-  // Código para Bubble Sort aqui
-}
